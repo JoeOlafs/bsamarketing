@@ -7606,6 +7606,11 @@ button.bg-dark:focus {
   margin-right: 3rem !important;
 }
 
+.imgcaption {
+  margin-bottom: 3rem !important;
+  font-size: 10px;
+}
+
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
