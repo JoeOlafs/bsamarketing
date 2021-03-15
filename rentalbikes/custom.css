@@ -24,3 +24,9 @@
     letter-spacing: 0.15rem;
     border: 0;
   }
+
+  .img-fluid-padding {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+  }
